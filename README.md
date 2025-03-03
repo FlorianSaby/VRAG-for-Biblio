@@ -1,5 +1,5 @@
 # VRAG-for-Biblio
-A VRAG pipeline featuring a web-based graphical interface built on **Qwen2-VL** and **Colpali**.  
+A Vision RAG pipeline featuring a web-based graphical interface built on **Qwen2-VL** and **Colpali**.  
 
 To set up, use the `create_new_database(index_name)` function from `rag_utils`, where `index_name` is the path to the folder containing all your PDFs.  
 
